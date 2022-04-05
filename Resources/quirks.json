@@ -1,0 +1,32 @@
+{
+	"MAD-IIC-HERO": {
+		"name": "Marauder IIC Hero Structure",
+		"description": "The Marauder IIC Hero comes equipped with higher density armor",
+		"color": "(R=1,G=0,B=0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"RightTorso": 14,
+				"LeftTorso": 14
+				}
+		}
+	},
+	"MAD-IIC-SC": {
+		"name": "Scorch",
+		"description": "Unique set of quirks for the Marauder IIC Scorch Hero 'Mech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "SRM Missile",
+						"tags": [
+							"Weapon.Missile.SRM",
+							"Weapon.ArtemisMissile.SRM"
+						],
+						"cooldownMulti": 0.9
+					}
+				]
+			}
+		}
+	}
+}

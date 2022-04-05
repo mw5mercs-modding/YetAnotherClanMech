@@ -1,0 +1,24 @@
+{
+	"MAD-IIC-2": {
+		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R"
+	},
+	"MAD-IIC-2X": {
+		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R"
+	},
+	"MAD-IIC-A": {
+		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R"
+	},
+	"MAD-IIC-B": {
+		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R"
+	},
+	"MAD-IIC-C": {
+		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R"
+	},
+	"MAD-IIC-SC": {
+		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R",
+		"quirks": [
+			"MAD-IIC-SC",
+			"MAD-IIC-HERO"
+		]
+	}
+}
