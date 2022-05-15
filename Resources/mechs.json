@@ -20,5 +20,11 @@
 			"MAD-IIC-SC",
 			"MAD-IIC-HERO"
 		]
+	},
+	"DV-IIC": {
+		"useSkinsFrom": "Mech.Medium.Dervish.DV-6M",
+		"quirks": [
+			"hyper-extending-actuators"
+		]
 	}
 }
