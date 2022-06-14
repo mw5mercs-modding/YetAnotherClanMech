@@ -1,16 +1,16 @@
 {
    "displayName" : "YetAnotherClanMech",
    "version" : "1.0",
-   "buildNumber" : 1,
-   "description" : "",
-   "author" : "trueg",
+   "buildNumber" : 20,
+   "description" : "Adds new Clan variants of existing mechs like the Marauder IIC to the game.\r\nUses weapons and equipment from YetAnotherWeaponClan.",
+   "author" : "cszolee79 and trueg",
    "authorURL" : "",
    "defaultLoadOrder" : 0,
    "gameVersion" : "1.1.0",
    "manifest" : [
       
    ],
-   "steamPublishedFileId" : 0,
-   "steamLastSubmittedBuildNumber" : 0,
-   "steamModVisibility" : "Private"
+   "steamPublishedFileId" : 2815252243,
+   "steamLastSubmittedBuildNumber" : 7,
+   "steamModVisibility" : "Public"
 }

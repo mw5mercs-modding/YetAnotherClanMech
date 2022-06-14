@@ -1,4 +1,15 @@
 {
+	"clan-mech": {
+		"name": "Clan",
+		"description": "The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.",
+		"color": "(R=0.484,G=0.336,B=0.012,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.067,
+			"accelerationMulti": 1.1,
+			"turnSpeedMulti": 1.1,
+			"upkeepCostMulti": 1.2
+		}
+	},
 	"MAD-IIC-HERO": {
 		"name": "Marauder IIC Hero Structure",
 		"description": "The Marauder IIC Hero comes equipped with higher density armor",
@@ -34,6 +45,14 @@
 		"description": "This BattleMech's actuators are hyper-mobile, allowing the 'Mech to aim at targets outside the normal field of fire.",
 		"properties": {
 			"armTwistAngleMulti": 1.3
+		}
+	},
+	"UM-IIC-piloting": {
+		"name": "Easy Piloting",
+		"description": "The UrbanMech IIC is especially easy to pilot.",
+		"color": "(R=0,G=1,B=0.27,A=1)",
+		"properties": {
+			"pilotingSkillBonus": 3
 		}
 	}
 }

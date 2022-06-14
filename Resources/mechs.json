@@ -1,5 +1,13 @@
 {
+	"Marauder_IIC_MDL": {
+		"quirks": [
+			"clan-mech"
+		]
+	},
 	"MAD-IIC-2": {
+		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R"
+	},
+	"MAD-IIC-4": {
 		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R"
 	},
 	"MAD-IIC-2X": {
@@ -24,7 +32,31 @@
 	"DV-IIC": {
 		"useSkinsFrom": "Mech.Medium.Dervish.DV-6M",
 		"quirks": [
+			"clan-mech",
 			"hyper-extending-actuators"
+		]
+	},
+	"Urbanmech_IIC_MDL": {
+		"quirks": [
+			"clan-mech",
+			"UM-ASSAULT",
+			"UM-IIC-piloting"
+		]
+	},
+	"UM-IIC-1": {
+		"useSkinsFrom": "Mech.Light.Urbanmech.UM-R60"
+	},
+	"UM-IIC-2": {
+		"useSkinsFrom": "Mech.Light.Urbanmech.UM-R60"
+	},
+	"RFL-C": {
+		"quirks": [
+			"clan-mech"
+		]
+	},
+	"RFL-C3": {
+		"quirks": [
+			"clan-mech"
 		]
 	}
 }
