@@ -1,8 +1,8 @@
 {
    "displayName" : "YetAnotherClanMech",
    "version" : "1.0",
-   "buildNumber" : 20,
-   "description" : "Adds new Clan variants of existing mechs like the Marauder IIC to the game.\r\nUses weapons and equipment from YetAnotherWeaponClan.",
+   "buildNumber" : 21,
+   "description" : "Adds new Clan variants of existing mechs like the Marauder IIC to the game.\r\n\r\nUses weapons and equipment from YetAnotherWeaponClan.\r\n\r\n- Dervish IIC (using the Dervish model1)\r\n\r\n- Marauder IIC-A (using the Marauder II model)\r\n- Marauder IIC-B\r\n- Marauder IIC-C\r\n- Marauder IIC-2\r\n- Marauder IIC-2X\r\n- Marauder IIC-4\r\n- Marauder IIC-SC Scorch Hero\r\n\r\n- Rifleman RFL-C\r\n- Rifleman RFL-C3\r\n\r\n- Urbanmech IIC (using the Urbanmech model)\r\n- Urbanmech IIC 2\r\n",
    "author" : "cszolee79 and trueg",
    "authorURL" : "",
    "defaultLoadOrder" : 0,
@@ -11,6 +11,6 @@
       
    ],
    "steamPublishedFileId" : 2815252243,
-   "steamLastSubmittedBuildNumber" : 7,
+   "steamLastSubmittedBuildNumber" : "21",
    "steamModVisibility" : "Public"
 }
